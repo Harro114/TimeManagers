@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0303acb1-2272-488a-9b7e-064f6bba7a52" name="Changes" comment="Создание новых моделей и добавление их в админ панель">
-      <change afterPath="$PROJECT_DIR$/timeManager/timeAllocator/static/timeAllocator/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/timeManager/timeAllocator/static/timeAllocator/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/timeManager/timeAllocator/static/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/timeManager/timeAllocator/templates/timeAllocator/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/timeManager/timeAllocator/templates/timeAllocator/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/timeManager/timeManager/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/timeManager/timeManager/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,13 +60,15 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\harro114\PycharmProjects\TimeManager\timeManager\timeAllocator\static\css" />
+      <recent name="C:\Users\harro114\PycharmProjects\TimeManager\timeManager\timeAllocator\static" />
       <recent name="D:\HarroProjects\TimeManagers\timeManager\timeAllocator\static\timeAllocator" />
     </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-eebebe6c2be4-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15325.20" />
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
       </set>
     </attachedChunks>
   </component>
