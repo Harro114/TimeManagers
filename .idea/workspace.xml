@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0303acb1-2272-488a-9b7e-064f6bba7a52" name="Changes" comment="Создание новых моделей и добавление их в админ панель">
-      <change afterPath="$PROJECT_DIR$/timeManager/timeAllocator/templates/timeAllocator/registration.html" afterDir="false" />
+    <list default="true" id="0303acb1-2272-488a-9b7e-064f6bba7a52" name="Changes" comment="Слава богу разобрался с блоками в HTML">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/timeManager/timeAllocator/templates/timeAllocator/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/timeManager/timeAllocator/templates/timeAllocator/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/timeManager/timeAllocator/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/timeManager/timeAllocator/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/timeManager/timeAllocator/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/timeManager/timeAllocator/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/timeManager/timeAllocator/templates/timeAllocator/registration.html" beforeDir="false" afterPath="$PROJECT_DIR$/timeManager/timeAllocator/templates/timeAllocator/registration.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,17 +50,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;3944e99f&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.updates&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "9edc1b35",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "preferences.updates"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\harro114\PycharmProjects\TimeManager\timeManager\timeAllocator\static\css" />
@@ -111,7 +108,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721056448618</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Слава богу разобрался с блоками в HTML">
+      <option name="closed" value="true" />
+      <created>1721077659759</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1721077659759</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -119,6 +124,7 @@
     <MESSAGE value="Django project created" />
     <MESSAGE value="Создание новых моделей и добавление их в админ панель" />
     <MESSAGE value="Подключение css к шаблону. Добавлена директория static внутри приложения timeAllocator в базовые директории для поиска." />
-    <option name="LAST_COMMIT_MESSAGE" value="Подключение css к шаблону. Добавлена директория static внутри приложения timeAllocator в базовые директории для поиска." />
+    <MESSAGE value="Слава богу разобрался с блоками в HTML" />
+    <option name="LAST_COMMIT_MESSAGE" value="Слава богу разобрался с блоками в HTML" />
   </component>
 </project>
