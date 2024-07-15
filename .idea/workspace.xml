@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0303acb1-2272-488a-9b7e-064f6bba7a52" name="Changes" comment="Подключение css к шаблону. Добавлена директория static внутри приложения timeAllocator в базовые директории для поиска.">
+    <list default="true" id="0303acb1-2272-488a-9b7e-064f6bba7a52" name="Changes" comment="Создание новых моделей и добавление их в админ панель">
+      <change afterPath="$PROJECT_DIR$/timeManager/timeAllocator/templates/timeAllocator/registration.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/timeManager/timeAllocator/templates/timeAllocator/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/timeManager/timeAllocator/templates/timeAllocator/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/timeManager/timeManager/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/timeManager/timeManager/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/timeManager/timeAllocator/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/timeManager/timeAllocator/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/timeManager/timeAllocator/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/timeManager/timeAllocator/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +25,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3944e99f685be4811d92154d9acce680e29073a1" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -52,7 +59,7 @@
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;3944e99f&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.updates&quot;
   }
@@ -67,7 +74,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+        <option value="bundled-python-sdk-eebebe6c2be4-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15325.20" />
       </set>
     </attachedChunks>
   </component>
