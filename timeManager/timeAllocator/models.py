@@ -24,5 +24,5 @@ class Tasks(models.Model):
     name = models.CharField(max_length=50)
     description = models.CharField(max_length=500)
     date_creation = models.DateTimeField()
-    date_begin = models.DateTimeField()
+    date_begin = models.DateTimeField() 
     date_end = models.DateTimeField()
