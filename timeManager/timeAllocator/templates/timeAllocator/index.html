@@ -11,11 +11,17 @@
     <div class="content-wrapper">
         <header class="header">
             <p style="font-size: 30px; margin: 0; padding: 10px 1em;">Time Manager</p>
+            {{ request.user }}
+            {{% if request.user.is_authenticated %}
+                 <a class="btn btn-primary" href="/logout">Logout</a>
+
+            	
+            {% endif %} }
         </header>
 
         <div class="container clearfix">
             <main class="content">
-                {% block body %}{% endblock %}
+                {% block context %}{% endblock %}
             </main>
         </div>
     </div>

@@ -6,11 +6,14 @@ from django.contrib.auth.models import AbstractUser
 class User(AbstractUser):
     time_registered = models.DateTimeField(auto_now_add=True)
 
-    def create_user(self, username, email, password):
-        self.username = username
-        self.email = email
-        self.set_password(password)
-        self.save()
+    @classmethod
+    def create_user(cls, username, email, password):
+        user = cls(username=username, email=email)
+        user.set_password(password)
+        user.save()
+        return user
+
+
 
 
 class Priority(models.Model):
